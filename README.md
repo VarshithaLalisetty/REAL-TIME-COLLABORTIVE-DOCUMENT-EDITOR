@@ -48,3 +48,6 @@ Socket.io – For real-time communication between users
 
 This project may be simple in design, but it introduces powerful concepts that are used in many professional tools. It's an excellent stepping stone for deeper learning and a perfect way to showcase your ability to build interactive web applications.
 
+*output*
+![Image](https://github.com/user-attachments/assets/b35dfaa0-ca2f-44af-aa9f-ac82b963e83b)
+
